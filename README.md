@@ -1,7 +1,6 @@
-# dl_basics
+# DL_basics
 
-## Junior developer's DL skill practice
-> with paper review
+## Junior developer's DL skill practice with paper review
 ---
 
 ### Image Recognition
