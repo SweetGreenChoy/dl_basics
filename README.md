@@ -5,7 +5,7 @@
 
 ### Image Recognition
 
-- YOLO real time object detection[**Link(https://arxiv.org/abs/1506.02640)**]
+- YOLO -real time object detection[**Link(https://arxiv.org/abs/1506.02640)**]
 > **Keywords** : Deep Learning | Object Detection | Image Processing
 
 ### GAN
